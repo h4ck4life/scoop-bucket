@@ -1,0 +1,22 @@
+{
+    "version": "1.0.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/h4ck4life/aix-go/releases/download/v1.0.2/aix_1.0.2_windows_amd64.zip",
+            "bin": [
+                "aix.exe"
+            ],
+            "hash": "0cdd48a889064a01ffca404b8f907b8d261c8f22cc7d8c60e703c8ce398b92aa"
+        },
+        "arm64": {
+            "url": "https://github.com/h4ck4life/aix-go/releases/download/v1.0.2/aix_1.0.2_windows_arm64.zip",
+            "bin": [
+                "aix.exe"
+            ],
+            "hash": "70803520da48da9388012f1c00cd900e75c78d8d1c237c902b6405689290f993"
+        }
+    },
+    "homepage": "https://github.com/h4ck4life/aix-go",
+    "license": "MIT",
+    "description": "CLI to switch Anthropic-compatible endpoints and tokens"
+}
