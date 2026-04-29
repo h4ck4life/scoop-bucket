@@ -1,19 +1,19 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/h4ck4life/aix-go/releases/download/v1.0.5/aix_1.0.5_windows_amd64.zip",
+            "url": "https://github.com/h4ck4life/aix-go/releases/download/v1.0.6/aix_1.0.6_windows_amd64.zip",
             "bin": [
                 "aix.exe"
             ],
-            "hash": "cd56de0791c6a527606903b10d3babfd8438186eef801ec8fedd11c6f349a9f4"
+            "hash": "bdde4e8a57947370fd4b5be72f9fb9a8bb06248b593698dbd5a89e8445de794f"
         },
         "arm64": {
-            "url": "https://github.com/h4ck4life/aix-go/releases/download/v1.0.5/aix_1.0.5_windows_arm64.zip",
+            "url": "https://github.com/h4ck4life/aix-go/releases/download/v1.0.6/aix_1.0.6_windows_arm64.zip",
             "bin": [
                 "aix.exe"
             ],
-            "hash": "e59c9508eb016983d79e95a991754ea99a3d2494879038b1f3808de29319d312"
+            "hash": "3aa52401ae528a3af10121f3a5ca184c3083a75ebb46b67207c0b0713be27041"
         }
     },
     "homepage": "https://github.com/h4ck4life/aix-go",
